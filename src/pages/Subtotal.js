@@ -1,5 +1,5 @@
 import React from 'react';
-import CurrencyFormat from 'react-currency-format';
+import { NumericFormat } from 'react-number-format'
 import { useNavigate } from 'react-router-dom';
 import { getBasketTotal } from '../components/reducer';
 import { useStateValue } from '../components/StateProvider';
@@ -42,10 +42,10 @@ function Subtotal() {
             </div>
             <div className="py-4 mb-4 border-top border-bottom d-flex justify-content-between">
               <h5 className="mb-0 ps-4 me-4">Total</h5>
-              <CurrencyFormat
+              <NumericFormat
                 value={totalValue}
                 displayType={'text'}
-                thousandSeparator={true}
+                thousandSeparator
                 prefix={'₹'}
                 renderText={(value) => <p className="mb-0 pe-4">{value}</p>}
               />
