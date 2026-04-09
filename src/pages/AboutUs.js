@@ -26,7 +26,7 @@ function AboutUs() {
               </Link>
             </li>
             <li className="breadcrumb-item">
-              <a className="text-white" href="#">
+              <a className="text-white" href="/">
                 Pages
               </a>
             </li>

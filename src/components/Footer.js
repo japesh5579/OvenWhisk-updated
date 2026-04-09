@@ -148,7 +148,7 @@ function Footer() {
     <div className="container">
       <div className="row">
         <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-          © <a href="#">OvenWhisk</a>, All Right Reserved.
+          © <a href="/">OvenWhisk</a>, All Right Reserved.
         </div>
         <div className="col-md-6 text-center text-md-end">
           
@@ -162,7 +162,7 @@ function Footer() {
   {/* Copyright End */}
   {/* Back to Top */}
   <a
-    href="#"
+    href="/"
     className="d-flex justify-content-center btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"
   >
     <i className="bi bi-arrow-up" />

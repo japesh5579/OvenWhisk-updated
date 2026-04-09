@@ -31,7 +31,7 @@ function Crausal() {
                       <p className="text-light fs-5 mb-4 pb-3">
                       From Oven to Table, Freshly Baked Happiness
                       </p>
-                      <a href="#" className="btn btn-primary rounded-pill py-3 px-5">
+                      <a href="/" className="btn btn-primary rounded-pill py-3 px-5">
                         Read More
                       </a>
                     </div>
@@ -56,7 +56,7 @@ function Crausal() {
                       <p className="text-light fs-5 mb-4 pb-3">
                       Experience the Essence of Homemade Goodness.
                       </p>
-                      <a href="#" className="btn btn-primary rounded-pill py-3 px-5">
+                      <a href="/" className="btn btn-primary rounded-pill py-3 px-5">
                         Read More
                       </a>
                     </div>

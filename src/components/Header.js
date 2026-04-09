@@ -78,17 +78,17 @@ function Header() {
                 </Link>
               </li>
               <li className="breadcrumb-item">
-                <a className="small text-light" href="#">
+                <a className="small text-light" href="/">
                   Career
                 </a>
               </li>
               <li className="breadcrumb-item">
-                <a className="small text-light" href="#">
+                <a className="small text-light" href="/">
                   Terms
                 </a>
               </li>
               <li className="breadcrumb-item">
-                <a className="small text-light" href="#">
+                <a className="small text-light" href="/">
                   Privacy
                 </a>
               </li>
@@ -157,7 +157,7 @@ function Header() {
             </Link>
             <div className="nav-item dropdown">
               <a
-                href="#"
+                href="/"
                 className={getLinkClass('/team', '/test', '/signup')} 
                 data-bs-toggle="dropdown"
               >
