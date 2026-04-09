@@ -65,13 +65,13 @@ function Team() {
               <span>Pastry Chef</span>
             </div>
             <div className="team-social">
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-instagram" />
               </a>
             </div>
@@ -87,13 +87,13 @@ function Team() {
               <span>Cake Decorator</span>
             </div>
             <div className="team-social">
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-instagram" />
               </a>
             </div>
@@ -109,13 +109,13 @@ function Team() {
               <span>Bread Specialist</span>
             </div>
             <div className="team-social">
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-instagram" />
               </a>
             </div>
@@ -131,13 +131,13 @@ function Team() {
               <span>Head Baker</span>
             </div>
             <div className="team-social">
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-square btn-light rounded-circle" href="">
+              <a className="btn btn-square btn-light rounded-circle" href="/">
                 <i className="fab fa-instagram" />
               </a>
             </div>

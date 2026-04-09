@@ -99,23 +99,23 @@ function Header() {
             <div className="h-100 d-inline-flex align-items-center">
               <a
                 className="btn-lg-square text-primary border-end rounded-0"
-                href=""
+                href="/"
               >
                 <i className="fab fa-facebook-f" />
               </a>
               <a
                 className="btn-lg-square text-primary border-end rounded-0"
-                href=""
+                href="/"
               >
                 <i className="fab fa-twitter" />
               </a>
               <a
                 className="btn-lg-square text-primary border-end rounded-0"
-                href=""
+                href="/"
               >
                 <i className="fab fa-linkedin-in" />
               </a>
-              <a className="btn-lg-square text-primary pe-0" href="">
+              <a className="btn-lg-square text-primary pe-0" href="/">
                 <i className="fab fa-instagram" />
               </a>
             </div>

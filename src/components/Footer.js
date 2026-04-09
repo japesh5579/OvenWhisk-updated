@@ -29,25 +29,25 @@ function Footer() {
           <div className="d-flex pt-2">
             <a
               className="btn btn-square btn-outline-light rounded-circle me-1"
-              href=""
+              href="/"
             >
               <i className="fab fa-twitter" />
             </a>
             <a
               className="btn btn-square btn-outline-light rounded-circle me-1"
-              href=""
+              href="/"
             >
               <i className="fab fa-facebook-f" />
             </a>
             <a
               className="btn btn-square btn-outline-light rounded-circle me-1"
-              href=""
+              href="/"
             >
               <i className="fab fa-youtube" />
             </a>
             <a
               className="btn btn-square btn-outline-light rounded-circle me-0"
-              href=""
+              href="/"
             >
               <i className="fab fa-linkedin-in" />
             </a>
@@ -55,37 +55,37 @@ function Footer() {
         </div>
         <div className="col-lg-3 col-md-6">
           <h4 className="text-light mb-4">Quick Links</h4>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             About Us
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Contact Us
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Our Services
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Terms &amp; Condition
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Support
           </a>
         </div>
         <div className="col-lg-3 col-md-6">
           <h4 className="text-light mb-4">Quick Links</h4>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             About Us
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Contact Us
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Our Services
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Terms &amp; Condition
           </a>
-          <a className="btn btn-link" href="">
+          <a className="btn btn-link" href="/">
             Support
           </a>
         </div>

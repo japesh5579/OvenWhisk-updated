@@ -87,7 +87,7 @@ function Products() {
               <div className="product-overlay">
                 <a
                   className="btn btn-lg-square btn-outline-light rounded-circle"
-                  href=""
+                  href="/"
                 >
                   <i className="fa fa-eye text-primary" />
                 </a>
@@ -111,7 +111,7 @@ function Products() {
               <div className="product-overlay">
                 <a
                   className="btn btn-lg-square btn-outline-light rounded-circle"
-                  href=""
+                  href="/"
                 >
                   <i className="fa fa-eye text-primary" />
                 </a>
@@ -135,7 +135,7 @@ function Products() {
               <div className="product-overlay">
                 <a
                   className="btn btn-lg-square btn-outline-light rounded-circle"
-                  href=""
+                  href="/"
                 >
                   <i className="fa fa-eye text-primary" />
                 </a>
